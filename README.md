@@ -1,4 +1,4 @@
-# Note.Color.Monokai
+# Monokai theme
 
 |                       Sample                      |     Color     |ColorCode|   Where    |
 |:-------------------------------------------------:|:--------------|:--------|:----------:|
